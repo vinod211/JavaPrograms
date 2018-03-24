@@ -4,9 +4,9 @@ public class SwitchCase {
 	
 
 	public static void main(String[] args) {
-		int b = 3, v = 5 ,result;
+		int b = 3, v = 5 ,result,excute=3;
 
-	int excute = 0;
+	//int excute = 0;
 
 		switch (excute) {
 		
